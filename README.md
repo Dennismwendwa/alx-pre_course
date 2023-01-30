@@ -1,2 +1,2 @@
 My first commit
-Its the second commit
+Updated my README.MD
