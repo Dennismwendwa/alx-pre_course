@@ -1,2 +1,2 @@
 My first commit
-Updated my README.MD
+merging master and update_script
