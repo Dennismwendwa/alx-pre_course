@@ -1,2 +1,2 @@
-My first readme
-Update my read me file. After so many projects without tauching it.
+My first commit
+merging master and update_script
